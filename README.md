@@ -16,7 +16,7 @@
   - 🔗 Portfolio: [aslam-portfolio.vercel.app](https://aslam-portfolio.vercel.app)  
   - 💼 LinkedIn: [linkedin.com/in/ahmad-shaik-web-developer](https://linkedin.com/in/ahmad-shaik-web-developer)  
   - 💻 GitHub: [github.com/aahmadshaik](https://github.com/aahmadshaik)  
-  - 📧 Email: [your-email@example.com]  
+  - 📧 Email: shaikahmadaslam@gmail.com 
 
 ---
 
