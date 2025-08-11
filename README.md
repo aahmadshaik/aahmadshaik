@@ -57,14 +57,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aahmadshaik&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
----
-
-## 📌 Highlighted Projects
-- 🎵 **[Spotify Clone](https://spotify-c-flame.vercel.app/)** — *(React, Spotify API, Tailwind CSS)*  
-- 🛒 **E-commerce Website** — *(React, Redux, Bootstrap)*  
-- ❓ **Quiz App** — *(React, API Integration, JavaScript)*  
-- 🌤️ **Real-Time Weather App** — *(JavaScript, API Integration)*  
-- 🍽️ **Chef Claude - AI Recipe Generator** — *(React, Hugging Face AI)*  
+---  
 
 📂 **Explore more:** [GitHub Repositories](https://github.com/aahmadshaik?tab=repositories)  
 
