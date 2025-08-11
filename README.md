@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 💼 **Front-End Developer** with hands-on experience in building scalable, responsive web applications using React & modern web technologies.  
 - 💡 Skilled in **UI/UX design**, **REST API integration**, and solving real-world problems with clean, accessible code.  
-- 🌱 Currently working as a **Full Stack Developer** at [DigiDxDoc](#) — actively focusing on **front-end development** for the **Alertr** platform.  
+- 🌱 Currently working as a **Full Stack Developer** at [DigiDxDoc](#) — actively focusing on **front-end development** for the **Alertr** & **Image Flow Radiology** platform.  
 - 🎯 Passionate about **pixel-perfect designs**, **problem-solving**, and **cross-device compatibility**.  
 - 📫 Reach me at:  
   - 🔗 **Portfolio:** [aslam-portfolio.vercel.app](https://aslam-portfolio.vercel.app)  
